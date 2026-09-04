@@ -3,30 +3,29 @@
 Este projeto implementa e compara diferentes métodos para calcular a integral definida:
 
 <a>
-    <img>
-        alt="func_integral"
-        width="250px"
-        style="padding-right:10px;"
-        align="center"
-        src="https://github.com/user-attachments/assets/cfc96ac6-2551-4c1e-89a2-c07038409681" 
-    </>
+   <img
+      alt="integral"
+      width="200px"
+      style="padding-right:10px;"
+      align="center"
+      src="https://github.com/user-attachments/assets/cfc96ac6-2551-4c1e-89a2-c07038409681" 
+   />
 </a>
 
 <br/>
+
 
 Como essa integral não possui antiderivada elementar, utilizamos técnicas numéricas e simbólicas para obter aproximações de alta precisão. O valor de referência (obtido com SymPy) é:
 
 <a>
-    <img>
-        alt="valor_aprox"
-        width="250px"
-        style="padding-right:10px;"
-        align="center"
-        src="https://github.com/user-attachments/assets/0376b2e8-49ac-4aee-bd46-0b4ea30a95ab" 
-    </>
+   <img
+      alt="valor_aprox"
+      width="200px"
+      style="padding-right:10px;"
+      align="center"
+      src="https://github.com/user-attachments/assets/0376b2e8-49ac-4aee-bd46-0b4ea30a95ab" 
+   />
 </a>
-
-<br/>
 
 ## Métodos implementados
 
@@ -43,13 +42,13 @@ Como essa integral não possui antiderivada elementar, utilizamos técnicas num�
    - Integração simbólica, resultando em:
    
 <a>
-    <img>
-        alt="func_erro"
-        width="250px"
-        style="padding-right:10px;"
-        align="center"
-        src="https://github.com/user-attachments/assets/156cc5e7-8136-4a84-afe1-4b3de817f100" 
-    </>
+   <img
+      alt="func_erro"
+      width="200px"
+      style="padding-right:10px;"
+      align="center"
+      src="https://github.com/user-attachments/assets/156cc5e7-8136-4a84-afe1-4b3de817f100" 
+   />
 </a>
 
    - Avaliação numérica com precisão arbitrária.
