@@ -1,4 +1,4 @@
-# Integração Numérica da Função Gaussiana
+## Integração Numérica da Função Gaussiana
 
 Este projeto implementa e compara diferentes métodos para calcular a integral definida:
 
@@ -27,7 +27,8 @@ Como essa integral não possui antiderivada elementar, utilizamos técnicas num�
    />
 </a>
 
-## Métodos implementados
+---
+### Métodos implementados
 
 1. **Regra de Simpson composta (implementação manual)**  
    - Fórmula clássica com \(n\) subintervalos (n deve ser par).  
@@ -53,7 +54,8 @@ Como essa integral não possui antiderivada elementar, utilizamos técnicas num�
 
    - Avaliação numérica com precisão arbitrária.
 
-## Pré-requisitos
+---
+### Pré-requisitos
 
 - Python 3.7 ou superior
 - Bibliotecas: `numpy`, `scipy`, `sympy`
@@ -62,3 +64,11 @@ Instale as dependências com:
 
 ```bash
 pip install numpy scipy sympy
+```
+---
+### Contribyição
+- Se você quiser contribuir para este projeto, fique à vontade para fazer um fork, criar um branch e enviar um pull request com suas melhorias.
+
+---
+### Autor
+ Este projeto foi desenvolvido por **Thiago Garcia**.
