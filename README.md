@@ -66,7 +66,7 @@ Instale as dependências com:
 pip install numpy scipy sympy
 ```
 ---
-### Contribyição
+### Contribuição
 - Se você quiser contribuir para este projeto, fique à vontade para fazer um fork, criar um branch e enviar um pull request com suas melhorias.
 
 ---
